@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecercise algorithms 14-20", "ecercise algorithms 14-20\ecercise algorithms 14-20.csproj", "{38DB1B4B-8AF1-4709-8C95-6E81079313DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DB1B4B-8AF1-4709-8C95-6E81079313DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DB1B4B-8AF1-4709-8C95-6E81079313DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DB1B4B-8AF1-4709-8C95-6E81079313DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DB1B4B-8AF1-4709-8C95-6E81079313DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DC26C7-3846-4C60-AB6C-78725B51BE47}
+	EndGlobalSection
+EndGlobal
