@@ -1,4 +1,4 @@
-# Algoritm
+# Algorithm
 This repository about how to use Algoritm in C# 
 
 Algoritm is everywhere ,everything got an algoritm 
